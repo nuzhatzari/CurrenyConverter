@@ -21,10 +21,7 @@ App Features
 3. Select the currency to update the base currency. Now the Home screen will show the list of currencies with selected currency as the base currency.
 
 
-IV. Which architecture would you use for the required task below? Why?
-
-Ans. I have used VIPER architecture in the above sample because it simplifies complex projects and it was descriped in the task that this currency converter is a component is a large-scaled project.
-This architecture sets clear responsibilities for each module, and is good while working in a large team because multiple developers can work simultaneously.
+I have used VIPER architecture in the above sample because it simplifies complex projects. This architecture sets clear responsibilities for each module, and is good while working in a large team because multiple developers can work simultaneously.
 
 Note: I have not used fixer.io api because the free version has restricted access.
 
